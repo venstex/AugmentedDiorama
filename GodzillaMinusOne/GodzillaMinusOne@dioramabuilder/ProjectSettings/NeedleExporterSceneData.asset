@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Scenes:
   - Path: Assets/GodzillaMinusOne@Dioramabuilder.unity
-    Projects: []
+    Projects:
+    - ProjectPath: Needle/GodzillaMinusOne@Dioramabuilder
     BuilderScene: 
-  Projects: []
+  Projects:
+  - ProjectPath: Needle/GodzillaMinusOne@Dioramabuilder
