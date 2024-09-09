@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GodzillaMinusOne@Dioramabuilder.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
