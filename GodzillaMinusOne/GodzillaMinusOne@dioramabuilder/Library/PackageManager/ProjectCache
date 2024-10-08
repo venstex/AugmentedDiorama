@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638614868143508070
-    m_Hash: 1755751985
+      ticks: 638620207995284972
+    m_Hash: 1375741966
   m_LockFileStatus:
     m_FilePath: D:/User/Documents/GitHub/AugmentedDiorama/AugmentedDiorama/GodzillaMinusOne/GodzillaMinusOne@dioramabuilder/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638614885699134893
-    m_Hash: 567678175
+      ticks: 638620207999845366
+    m_Hash: 2485482366
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,1059 @@ m_LocalPackages:
 m_ProjectPath: D:/User/Documents/GitHub/AugmentedDiorama/AugmentedDiorama/GodzillaMinusOne/GodzillaMinusOne@dioramabuilder/Packages
 m_EditorVersion: 2023.2.17f1 (396a1c6fe404)
 m_ResolvedPackages:
+- packageId: com.needle.engine-exporter@3.47.10
+  testable: 0
+  isDirectDependency: 1
+  version: 3.47.10
+  source: 1
+  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.needle.engine-exporter@3.47.10
+  assetPath: Packages/com.needle.engine-exporter
+  name: com.needle.engine-exporter
+  displayName: Needle Engine
+  author:
+    name: Needle
+    email: hi@needle.tools
+    url: https://needle.tools
+  category: Libraries
+  type: tool
+  description: '*This packages lets you export and deploy Unity scenes to [three.js](https://threejs.org)
+    within seconds.*'
+  errors: []
+  versions:
+    all:
+    - 2.9.3-pre
+    - 2.9.4-pre
+    - 2.9.4-pre.1
+    - 2.9.5-pre
+    - 2.10.0-pre
+    - 2.11.0-pre
+    - 2.12.0-pre
+    - 2.12.1-pre
+    - 2.13.0-pre
+    - 2.13.1-pre
+    - 2.14.0-pre
+    - 2.14.1-pre
+    - 2.14.2-pre
+    - 2.15.0-pre
+    - 2.15.1-pre
+    - 2.16.0-pre
+    - 2.16.0-pre.1
+    - 2.16.0-pre.2
+    - 2.16.0-pre.3
+    - 2.17.0-pre
+    - 2.17.1-pre
+    - 2.17.2-pre
+    - 2.17.3-pre
+    - 2.18.0-pre
+    - 2.18.1-pre
+    - 2.18.1-pre.1
+    - 2.18.2-pre
+    - 2.18.3-pre
+    - 2.19.0-pre
+    - 2.20.0-pre
+    - 2.21.0-pre
+    - 2.21.1-pre
+    - 2.22.0-pre
+    - 2.22.1-pre
+    - 2.23.0-pre
+    - 2.24.0-pre
+    - 2.24.1-pre
+    - 2.25.0-pre
+    - 2.25.1-pre
+    - 2.25.2-pre
+    - 2.26.0-pre
+    - 2.26.1-pre
+    - 2.27.0-pre
+    - 2.27.1-pre
+    - 2.27.1-pre.1
+    - 2.27.2-pre
+    - 2.28.0-pre
+    - 2.29.0-pre
+    - 2.29.1-pre
+    - 2.30.0-pre
+    - 2.30.1-pre
+    - 2.31.0-pre
+    - 2.32.0-pre
+    - 2.33.0-pre
+    - 2.34.0-pre
+    - 2.35.0-pre
+    - 2.35.1-pre
+    - 2.35.2-pre
+    - 2.35.3-pre
+    - 2.35.4-pre
+    - 2.35.5-pre
+    - 2.36.0-pre
+    - 2.37.0-pre
+    - 2.37.1-pre
+    - 2.38.0-pre
+    - 2.38.1-pre
+    - 2.39.0-pre
+    - 2.39.1-pre
+    - 2.39.2-pre
+    - 2.39.3-pre
+    - 2.40.0-pre
+    - 2.41.0-pre
+    - 2.42.0-pre
+    - 2.43.0-pre
+    - 2.44.0-pre
+    - 2.44.1-pre
+    - 2.44.2-pre
+    - 2.45.0-pre
+    - 2.46.0-pre
+    - 2.47.0-pre
+    - 2.47.1-pre
+    - 2.47.2-pre
+    - 2.48.0-pre
+    - 2.49.0-pre
+    - 2.49.1-pre
+    - 2.50.0-pre
+    - 2.51.0-pre
+    - 2.52.0-pre
+    - 2.53.0-pre
+    - 2.53.1-pre
+    - 2.53.2-pre
+    - 2.53.3-pre.1
+    - 2.54.0-pre
+    - 2.54.0-pre.1
+    - 2.54.1-pre
+    - 2.54.2-pre
+    - 2.54.3-pre
+    - 2.55.0-pre
+    - 2.55.1-pre
+    - 2.55.2-pre
+    - 2.56.0-pre
+    - 2.56.1-pre
+    - 2.56.2-pre
+    - 2.57.0-pre
+    - 2.58.0-pre
+    - 2.58.1-pre
+    - 2.58.2-pre
+    - 2.58.2-pre.1
+    - 2.58.3-pre
+    - 2.58.4-pre
+    - 2.59.0-pre
+    - 2.59.1-pre
+    - 2.59.2-pre
+    - 2.59.2-pre.1
+    - 2.59.3-pre
+    - 2.60.0-pre
+    - 2.60.1-pre
+    - 2.60.1-pre.1
+    - 2.60.2-pre
+    - 2.60.2-pre.1
+    - 2.60.3-pre
+    - 2.60.4-pre
+    - 2.61.0-pre
+    - 2.62.0-pre
+    - 2.62.1-pre
+    - 2.62.2-pre
+    - 2.63.0-pre
+    - 2.63.1-pre
+    - 2.63.2-pre
+    - 2.63.3-pre
+    - 2.64.0-pre
+    - 2.65.0-pre
+    - 2.65.0-pre.1
+    - 2.65.1-pre
+    - 2.65.1-pre.1
+    - 2.65.1-pre.2
+    - 2.65.2-pre
+    - 2.66.0-pre
+    - 2.66.0-pre.1
+    - 2.66.1-pre
+    - 2.67.0-pre
+    - 2.67.1-pre
+    - 2.67.2-pre
+    - 2.67.3-pre
+    - 2.67.4-pre
+    - 2.67.5-pre
+    - 2.67.6-pre
+    - 2.67.7-pre
+    - 2.67.8-pre
+    - 2.67.8-pre.1
+    - 2.67.9-pre
+    - 2.67.10-pre
+    - 2.67.11-pre
+    - 2.67.12-pre
+    - 2.67.13-pre
+    - 2.67.14-pre
+    - 2.67.15-pre
+    - 2.67.16-pre
+    - 2.67.16-pre.1
+    - 2.67.16
+    - 2.67.17
+    - 2.67.18
+    - 3.1.0-exp
+    - 3.1.0-exp.1
+    - 3.1.0-exp.2
+    - 3.1.0-exp.3
+    - 3.2.0-exp
+    - 3.2.1-exp
+    - 3.2.2-exp
+    - 3.2.3-exp
+    - 3.2.4-exp
+    - 3.2.5-exp
+    - 3.2.6-exp
+    - 3.2.7-exp
+    - 3.2.8-exp
+    - 3.2.9-exp
+    - 3.2.10-exp
+    - 3.2.11-exp
+    - 3.2.12-exp
+    - 3.2.13-exp
+    - 3.2.13-exp.1
+    - 3.2.14-exp
+    - 3.2.15-exp
+    - 3.3.0-exp
+    - 3.4.0-exp
+    - 3.4.0-exp.1
+    - 3.5.0-exp
+    - 3.5.1-exp
+    - 3.5.2-exp
+    - 3.5.3-exp
+    - 3.5.3-exp.1
+    - 3.5.4-exp
+    - 3.5.5-exp
+    - 3.5.6-exp
+    - 3.5.7-exp
+    - 3.5.8-exp
+    - 3.5.9-exp
+    - 3.5.9-exp.1
+    - 3.5.9-exp.2
+    - 3.5.9-pr.1
+    - 3.5.9-pr.2
+    - 3.5.9-pre
+    - 3.5.9-pre.2
+    - 3.5.10-pre
+    - 3.5.11-pre
+    - 3.5.11-pre.1
+    - 3.5.12-pre
+    - 3.5.13-pre
+    - 3.6.0-exp
+    - 3.6.0-pre
+    - 3.6.1-pre
+    - 3.6.2-pre
+    - 3.6.2
+    - 3.6.3
+    - 3.6.4
+    - 3.6.5
+    - 3.6.6
+    - 3.6.7
+    - 3.6.8
+    - 3.6.9
+    - 3.6.10
+    - 3.6.11
+    - 3.6.13
+    - 3.6.14
+    - 3.6.15
+    - 3.6.16
+    - 3.6.17
+    - 3.7.0-exp
+    - 3.7.1-exp
+    - 3.7.2-exp
+    - 3.7.3-exp
+    - 3.7.4-exp
+    - 3.7.5-exp
+    - 3.7.5-pre
+    - 3.7.5-pre.1
+    - 3.7.5-pre.2
+    - 3.7.5-pre.3
+    - 3.7.6-pre
+    - 3.7.7-pre
+    - 3.8.0-exp
+    - 3.9.0-exp
+    - 3.9.1-exp
+    - 3.10.0-exp
+    - 3.10.0-pre
+    - 3.10.1-pre
+    - 3.10.2-pre
+    - 3.10.3-pre
+    - 3.10.4-pre
+    - 3.10.5-pre
+    - 3.10.6-pre
+    - 3.10.7-pre
+    - 3.11.0-pre
+    - 3.11.1-pre
+    - 3.11.2-pre
+    - 3.11.3-pre
+    - 3.11.4-pre
+    - 3.11.5-pre
+    - 3.11.6-pre
+    - 3.11.6
+    - 3.12.0-pre
+    - 3.12.0-pre.1
+    - 3.12.0-pre.2
+    - 3.12.0-pre.3
+    - 3.12.0-pre.4
+    - 3.12.1-pre
+    - 3.12.1-pre.1
+    - 3.12.2-pre
+    - 3.13.0-pre
+    - 3.14.0-pre
+    - 3.15.0-pre
+    - 3.16.0-pre
+    - 3.16.1-pre
+    - 3.16.2-pre
+    - 3.16.2
+    - 3.16.3
+    - 3.16.5
+    - 3.17.0
+    - 3.17.1
+    - 3.18.0
+    - 3.19.0-pre
+    - 3.19.0
+    - 3.19.1
+    - 3.19.2
+    - 3.19.3
+    - 3.19.4
+    - 3.19.7
+    - 3.19.8
+    - 3.19.9
+    - 3.20.0
+    - 3.20.1
+    - 3.20.2
+    - 3.20.3
+    - 3.21.0
+    - 3.21.1
+    - 3.21.2
+    - 3.21.3
+    - 3.21.5
+    - 3.22.0
+    - 3.22.1
+    - 3.22.2
+    - 3.22.3
+    - 3.22.4
+    - 3.22.5
+    - 3.22.6
+    - 3.23.0
+    - 3.23.1
+    - 3.24.0
+    - 3.24.1
+    - 3.25.0
+    - 3.25.1
+    - 3.25.2
+    - 3.25.3
+    - 3.25.4
+    - 3.25.5
+    - 3.26.0-pre
+    - 3.26.1-pre
+    - 3.26.2-pre
+    - 3.27.0-pre
+    - 3.27.1-pre
+    - 3.27.2-pre
+    - 3.27.3-pre
+    - 3.27.4-pre
+    - 3.27.5-pre
+    - 3.28.0-pre
+    - 3.28.1-pre
+    - 3.28.2-pre
+    - 3.28.3-pre
+    - 3.28.4-pre
+    - 3.28.5-pre
+    - 3.28.6-pre
+    - 3.28.7-pre
+    - 3.28.7
+    - 3.28.8
+    - 3.29.0
+    - 3.30.0
+    - 3.31.0
+    - 3.31.1
+    - 3.31.2
+    - 3.31.5
+    - 3.31.6
+    - 3.31.7
+    - 3.31.8
+    - 3.32.0-exp
+    - 3.32.1-exp
+    - 3.32.2-exp
+    - 3.32.3-exp
+    - 3.32.4-exp
+    - 3.32.5-exp
+    - 3.32.6-exp
+    - 3.32.7-exp
+    - 3.32.8-exp
+    - 3.32.9-exp
+    - 3.32.10-exp
+    - 3.32.11-exp
+    - 3.32.12-exp
+    - 3.32.13-exp
+    - 3.32.14-exp
+    - 3.32.15-exp
+    - 3.32.16-exp
+    - 3.32.17-exp
+    - 3.32.18-exp
+    - 3.32.19-exp
+    - 3.32.20-exp
+    - 3.32.21-exp
+    - 3.32.22-exp
+    - 3.32.23-exp
+    - 3.32.24-exp
+    - 3.32.25-exp
+    - 3.32.26-exp
+    - 3.32.27-exp
+    - 3.32.28-pre
+    - 3.33.0-pre
+    - 3.34.0-exp
+    - 3.34.0-exp.2
+    - 3.34.0-exp.3
+    - 3.34.1-exp
+    - 3.34.1-exp.1
+    - 3.34.2-exp
+    - 3.34.2-exp.1
+    - 3.34.2-exp.2
+    - 3.34.3-exp
+    - 3.34.3-exp.1
+    - 3.34.3-exp.2
+    - 3.34.3-exp.3
+    - 3.34.4-exp
+    - 3.34.4-exp.1
+    - 3.35.0-exp
+    - 3.35.0-pre
+    - 3.35.1-pre
+    - 3.36.0-pre
+    - 3.36.1-pre
+    - 3.36.2-pre
+    - 3.36.3-pre
+    - 3.36.4-pre
+    - 3.36.5-pre
+    - 3.36.6-pre
+    - 3.36.6
+    - 3.37.0-exp
+    - 3.37.1-exp
+    - 3.37.2-exp
+    - 3.37.3-exp
+    - 3.37.4-exp
+    - 3.37.5-exp
+    - 3.37.6-exp
+    - 3.37.6-pre
+    - 3.37.7-pre
+    - 3.37.8-exp
+    - 3.37.8-exp.2
+    - 3.37.9-exp
+    - 3.37.10-exp
+    - 3.37.10-exp.1
+    - 3.37.11-exp
+    - 3.37.12-exp
+    - 3.37.13-exp
+    - 3.37.14-exp
+    - 3.37.15-exp
+    - 3.37.16-exp
+    - 3.38.0-exp
+    - 3.38.0-exp.1
+    - 3.39.0-exp
+    - 3.39.0-exp.1
+    - 3.39.0-exp.2
+    - 3.40.0-exp
+    - 3.40.0-exp.1
+    - 3.41.0-exp
+    - 3.41.1-exp
+    - 3.44.0-pre
+    - 3.44.0
+    - 3.44.1
+    - 3.44.4
+    - 3.44.5
+    - 3.44.6
+    - 3.45.0-pre
+    - 3.45.1-pre
+    - 3.45.2-pre
+    - 3.46.0-pre
+    - 3.46.0-pre.1
+    - 3.46.1-pre
+    - 3.46.1-pre.1
+    - 3.46.1-pre.2
+    - 3.47.0-pre
+    - 3.47.1-pre
+    - 3.47.2-pre
+    - 3.47.3-pre
+    - 3.47.4-pre
+    - 3.47.5-pre
+    - 3.47.5-pre.1
+    - 3.47.6-pre
+    - 3.47.6
+    - 3.47.8
+    - 3.47.9-pre
+    - 3.47.9-pre.1
+    - 3.47.9
+    - 3.47.10
+    compatible:
+    - 2.9.3-pre
+    - 2.9.4-pre
+    - 2.9.4-pre.1
+    - 2.9.5-pre
+    - 2.10.0-pre
+    - 2.11.0-pre
+    - 2.12.0-pre
+    - 2.12.1-pre
+    - 2.13.0-pre
+    - 2.13.1-pre
+    - 2.14.0-pre
+    - 2.14.1-pre
+    - 2.14.2-pre
+    - 2.15.0-pre
+    - 2.15.1-pre
+    - 2.16.0-pre
+    - 2.16.0-pre.1
+    - 2.16.0-pre.2
+    - 2.16.0-pre.3
+    - 2.17.0-pre
+    - 2.17.1-pre
+    - 2.17.2-pre
+    - 2.17.3-pre
+    - 2.18.0-pre
+    - 2.18.1-pre
+    - 2.18.1-pre.1
+    - 2.18.2-pre
+    - 2.18.3-pre
+    - 2.19.0-pre
+    - 2.20.0-pre
+    - 2.21.0-pre
+    - 2.21.1-pre
+    - 2.22.0-pre
+    - 2.22.1-pre
+    - 2.23.0-pre
+    - 2.24.0-pre
+    - 2.24.1-pre
+    - 2.25.0-pre
+    - 2.25.1-pre
+    - 2.25.2-pre
+    - 2.26.0-pre
+    - 2.26.1-pre
+    - 2.27.0-pre
+    - 2.27.1-pre
+    - 2.27.1-pre.1
+    - 2.27.2-pre
+    - 2.28.0-pre
+    - 2.29.0-pre
+    - 2.29.1-pre
+    - 2.30.0-pre
+    - 2.30.1-pre
+    - 2.31.0-pre
+    - 2.32.0-pre
+    - 2.33.0-pre
+    - 2.34.0-pre
+    - 2.35.0-pre
+    - 2.35.1-pre
+    - 2.35.2-pre
+    - 2.35.3-pre
+    - 2.35.4-pre
+    - 2.35.5-pre
+    - 2.36.0-pre
+    - 2.37.0-pre
+    - 2.37.1-pre
+    - 2.38.0-pre
+    - 2.38.1-pre
+    - 2.39.0-pre
+    - 2.39.1-pre
+    - 2.39.2-pre
+    - 2.39.3-pre
+    - 2.40.0-pre
+    - 2.41.0-pre
+    - 2.42.0-pre
+    - 2.43.0-pre
+    - 2.44.0-pre
+    - 2.44.1-pre
+    - 2.44.2-pre
+    - 2.45.0-pre
+    - 2.46.0-pre
+    - 2.47.0-pre
+    - 2.47.1-pre
+    - 2.47.2-pre
+    - 2.48.0-pre
+    - 2.49.0-pre
+    - 2.49.1-pre
+    - 2.50.0-pre
+    - 2.51.0-pre
+    - 2.52.0-pre
+    - 2.53.0-pre
+    - 2.53.1-pre
+    - 2.53.2-pre
+    - 2.53.3-pre.1
+    - 2.54.0-pre
+    - 2.54.0-pre.1
+    - 2.54.1-pre
+    - 2.54.2-pre
+    - 2.54.3-pre
+    - 2.55.0-pre
+    - 2.55.1-pre
+    - 2.55.2-pre
+    - 2.56.0-pre
+    - 2.56.1-pre
+    - 2.56.2-pre
+    - 2.57.0-pre
+    - 2.58.0-pre
+    - 2.58.1-pre
+    - 2.58.2-pre
+    - 2.58.2-pre.1
+    - 2.58.3-pre
+    - 2.58.4-pre
+    - 2.59.0-pre
+    - 2.59.1-pre
+    - 2.59.2-pre
+    - 2.59.2-pre.1
+    - 2.59.3-pre
+    - 2.60.0-pre
+    - 2.60.1-pre
+    - 2.60.1-pre.1
+    - 2.60.2-pre
+    - 2.60.2-pre.1
+    - 2.60.3-pre
+    - 2.60.4-pre
+    - 2.61.0-pre
+    - 2.62.0-pre
+    - 2.62.1-pre
+    - 2.62.2-pre
+    - 2.63.0-pre
+    - 2.63.1-pre
+    - 2.63.2-pre
+    - 2.63.3-pre
+    - 2.64.0-pre
+    - 2.65.0-pre
+    - 2.65.0-pre.1
+    - 2.65.1-pre
+    - 2.65.1-pre.1
+    - 2.65.1-pre.2
+    - 2.65.2-pre
+    - 2.66.0-pre
+    - 2.66.0-pre.1
+    - 2.66.1-pre
+    - 2.67.0-pre
+    - 2.67.1-pre
+    - 2.67.2-pre
+    - 2.67.3-pre
+    - 2.67.4-pre
+    - 2.67.5-pre
+    - 2.67.6-pre
+    - 2.67.7-pre
+    - 2.67.8-pre
+    - 2.67.8-pre.1
+    - 2.67.9-pre
+    - 2.67.10-pre
+    - 2.67.11-pre
+    - 2.67.12-pre
+    - 2.67.13-pre
+    - 2.67.14-pre
+    - 2.67.15-pre
+    - 2.67.16-pre
+    - 2.67.16-pre.1
+    - 2.67.16
+    - 2.67.17
+    - 2.67.18
+    - 3.1.0-exp
+    - 3.1.0-exp.1
+    - 3.1.0-exp.2
+    - 3.1.0-exp.3
+    - 3.2.0-exp
+    - 3.2.1-exp
+    - 3.2.2-exp
+    - 3.2.3-exp
+    - 3.2.4-exp
+    - 3.2.5-exp
+    - 3.2.6-exp
+    - 3.2.7-exp
+    - 3.2.8-exp
+    - 3.2.9-exp
+    - 3.2.10-exp
+    - 3.2.11-exp
+    - 3.2.12-exp
+    - 3.2.13-exp
+    - 3.2.13-exp.1
+    - 3.2.14-exp
+    - 3.2.15-exp
+    - 3.3.0-exp
+    - 3.4.0-exp
+    - 3.4.0-exp.1
+    - 3.5.0-exp
+    - 3.5.1-exp
+    - 3.5.2-exp
+    - 3.5.3-exp
+    - 3.5.3-exp.1
+    - 3.5.4-exp
+    - 3.5.5-exp
+    - 3.5.6-exp
+    - 3.5.7-exp
+    - 3.5.8-exp
+    - 3.5.9-exp
+    - 3.5.9-exp.1
+    - 3.5.9-exp.2
+    - 3.5.9-pr.1
+    - 3.5.9-pr.2
+    - 3.5.9-pre
+    - 3.5.9-pre.2
+    - 3.5.10-pre
+    - 3.5.11-pre
+    - 3.5.11-pre.1
+    - 3.5.12-pre
+    - 3.5.13-pre
+    - 3.6.0-exp
+    - 3.6.0-pre
+    - 3.6.1-pre
+    - 3.6.2-pre
+    - 3.6.2
+    - 3.6.3
+    - 3.6.4
+    - 3.6.5
+    - 3.6.6
+    - 3.6.7
+    - 3.6.8
+    - 3.6.9
+    - 3.6.10
+    - 3.6.11
+    - 3.6.13
+    - 3.6.14
+    - 3.6.15
+    - 3.6.16
+    - 3.6.17
+    - 3.7.0-exp
+    - 3.7.1-exp
+    - 3.7.2-exp
+    - 3.7.3-exp
+    - 3.7.4-exp
+    - 3.7.5-exp
+    - 3.7.5-pre
+    - 3.7.5-pre.1
+    - 3.7.5-pre.2
+    - 3.7.5-pre.3
+    - 3.7.6-pre
+    - 3.7.7-pre
+    - 3.8.0-exp
+    - 3.9.0-exp
+    - 3.9.1-exp
+    - 3.10.0-exp
+    - 3.10.0-pre
+    - 3.10.1-pre
+    - 3.10.2-pre
+    - 3.10.3-pre
+    - 3.10.4-pre
+    - 3.10.5-pre
+    - 3.10.6-pre
+    - 3.10.7-pre
+    - 3.11.0-pre
+    - 3.11.1-pre
+    - 3.11.2-pre
+    - 3.11.3-pre
+    - 3.11.4-pre
+    - 3.11.5-pre
+    - 3.11.6-pre
+    - 3.11.6
+    - 3.12.0-pre
+    - 3.12.0-pre.1
+    - 3.12.0-pre.2
+    - 3.12.0-pre.3
+    - 3.12.0-pre.4
+    - 3.12.1-pre
+    - 3.12.1-pre.1
+    - 3.12.2-pre
+    - 3.13.0-pre
+    - 3.14.0-pre
+    - 3.15.0-pre
+    - 3.16.0-pre
+    - 3.16.1-pre
+    - 3.16.2-pre
+    - 3.16.2
+    - 3.16.3
+    - 3.16.5
+    - 3.17.0
+    - 3.17.1
+    - 3.18.0
+    - 3.19.0-pre
+    - 3.19.0
+    - 3.19.1
+    - 3.19.2
+    - 3.19.3
+    - 3.19.4
+    - 3.19.7
+    - 3.19.8
+    - 3.19.9
+    - 3.20.0
+    - 3.20.1
+    - 3.20.2
+    - 3.20.3
+    - 3.21.0
+    - 3.21.1
+    - 3.21.2
+    - 3.21.3
+    - 3.21.5
+    - 3.22.0
+    - 3.22.1
+    - 3.22.2
+    - 3.22.3
+    - 3.22.4
+    - 3.22.5
+    - 3.22.6
+    - 3.23.0
+    - 3.23.1
+    - 3.24.0
+    - 3.24.1
+    - 3.25.0
+    - 3.25.1
+    - 3.25.2
+    - 3.25.3
+    - 3.25.4
+    - 3.25.5
+    - 3.26.0-pre
+    - 3.26.1-pre
+    - 3.26.2-pre
+    - 3.27.0-pre
+    - 3.27.1-pre
+    - 3.27.2-pre
+    - 3.27.3-pre
+    - 3.27.4-pre
+    - 3.27.5-pre
+    - 3.28.0-pre
+    - 3.28.1-pre
+    - 3.28.2-pre
+    - 3.28.3-pre
+    - 3.28.4-pre
+    - 3.28.5-pre
+    - 3.28.6-pre
+    - 3.28.7-pre
+    - 3.28.7
+    - 3.28.8
+    - 3.29.0
+    - 3.30.0
+    - 3.31.0
+    - 3.31.1
+    - 3.31.2
+    - 3.31.5
+    - 3.31.6
+    - 3.31.7
+    - 3.31.8
+    - 3.32.0-exp
+    - 3.32.1-exp
+    - 3.32.2-exp
+    - 3.32.3-exp
+    - 3.32.4-exp
+    - 3.32.5-exp
+    - 3.32.6-exp
+    - 3.32.7-exp
+    - 3.32.8-exp
+    - 3.32.9-exp
+    - 3.32.10-exp
+    - 3.32.11-exp
+    - 3.32.12-exp
+    - 3.32.13-exp
+    - 3.32.14-exp
+    - 3.32.15-exp
+    - 3.32.16-exp
+    - 3.32.17-exp
+    - 3.32.18-exp
+    - 3.32.19-exp
+    - 3.32.20-exp
+    - 3.32.21-exp
+    - 3.32.22-exp
+    - 3.32.23-exp
+    - 3.32.24-exp
+    - 3.32.25-exp
+    - 3.32.26-exp
+    - 3.32.27-exp
+    - 3.32.28-pre
+    - 3.33.0-pre
+    - 3.34.0-exp
+    - 3.34.0-exp.2
+    - 3.34.0-exp.3
+    - 3.34.1-exp
+    - 3.34.1-exp.1
+    - 3.34.2-exp
+    - 3.34.2-exp.1
+    - 3.34.2-exp.2
+    - 3.34.3-exp
+    - 3.34.3-exp.1
+    - 3.34.3-exp.2
+    - 3.34.3-exp.3
+    - 3.34.4-exp
+    - 3.34.4-exp.1
+    - 3.35.0-exp
+    - 3.35.0-pre
+    - 3.35.1-pre
+    - 3.36.0-pre
+    - 3.36.1-pre
+    - 3.36.2-pre
+    - 3.36.3-pre
+    - 3.36.4-pre
+    - 3.36.5-pre
+    - 3.36.6-pre
+    - 3.36.6
+    - 3.37.0-exp
+    - 3.37.1-exp
+    - 3.37.2-exp
+    - 3.37.3-exp
+    - 3.37.4-exp
+    - 3.37.5-exp
+    - 3.37.6-exp
+    - 3.37.6-pre
+    - 3.37.7-pre
+    - 3.37.8-exp
+    - 3.37.8-exp.2
+    - 3.37.9-exp
+    - 3.37.10-exp
+    - 3.37.10-exp.1
+    - 3.37.11-exp
+    - 3.37.12-exp
+    - 3.37.13-exp
+    - 3.37.14-exp
+    - 3.37.15-exp
+    - 3.37.16-exp
+    - 3.38.0-exp
+    - 3.38.0-exp.1
+    - 3.39.0-exp
+    - 3.39.0-exp.1
+    - 3.39.0-exp.2
+    - 3.40.0-exp
+    - 3.40.0-exp.1
+    - 3.41.0-exp
+    - 3.41.1-exp
+    - 3.44.0-pre
+    - 3.44.0
+    - 3.44.1
+    - 3.44.4
+    - 3.44.5
+    - 3.44.6
+    - 3.45.0-pre
+    - 3.45.1-pre
+    - 3.45.2-pre
+    - 3.46.0-pre
+    - 3.46.0-pre.1
+    - 3.46.1-pre
+    - 3.46.1-pre.1
+    - 3.46.1-pre.2
+    - 3.47.0-pre
+    - 3.47.1-pre
+    - 3.47.2-pre
+    - 3.47.3-pre
+    - 3.47.4-pre
+    - 3.47.5-pre
+    - 3.47.5-pre.1
+    - 3.47.6-pre
+    - 3.47.6
+    - 3.47.8
+    - 3.47.9-pre
+    - 3.47.9-pre.1
+    - 3.47.9
+    - 3.47.10
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: org.khronos.unitygltf
+    version: 2.12.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.video
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 10.8.0
+  - name: com.unity.timeline
+    version: 1.5.7
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.1
+  - name: com.unity.sharp-zip-lib
+    version: 1.3.2-preview
+  resolvedDependencies:
+  - name: org.khronos.unitygltf
+    version: 2.12.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 16.0.5
+  - name: com.unity.render-pipelines.core
+    version: 16.0.5
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.rendering.light-transport
+    version: 1.0.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.test-framework
+    version: 1.3.9
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.searcher
+    version: 4.9.2
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  - name: com.unity.modules.video
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.timeline
+    version: 1.8.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.sharp-zip-lib
+    version: 1.3.2-preview
+  keywords:
+  - Three.js
+  - Export
+  - Platform
+  - Runtime
+  - WebGL
+  registry:
+    id: scoped:project:needle
+    name: needle
+    url: https://packages.needle.tools
+    scopes:
+    - com.needle
+    - org.khronos
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638616671679940000
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.ai.navigation@2.0.0
   testable: 0
   isDirectDependency: 1
@@ -3277,1700 +4330,6 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-- packageId: com.needle.engine-exporter@3.47.6
-  testable: 0
-  isDirectDependency: 1
-  version: 3.47.6
-  source: 1
-  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.needle.engine-exporter@3.47.6
-  assetPath: Packages/com.needle.engine-exporter
-  name: com.needle.engine-exporter
-  displayName: Needle Engine
-  author:
-    name: Needle
-    email: hi@needle.tools
-    url: https://needle.tools
-  category: Libraries
-  type: tool
-  description: '*This packages lets you export and deploy Unity scenes to [three.js](https://threejs.org)
-    within seconds.*'
-  errors: []
-  versions:
-    all:
-    - 2.9.3-pre
-    - 2.9.4-pre
-    - 2.9.4-pre.1
-    - 2.9.5-pre
-    - 2.10.0-pre
-    - 2.11.0-pre
-    - 2.12.0-pre
-    - 2.12.1-pre
-    - 2.13.0-pre
-    - 2.13.1-pre
-    - 2.14.0-pre
-    - 2.14.1-pre
-    - 2.14.2-pre
-    - 2.15.0-pre
-    - 2.15.1-pre
-    - 2.16.0-pre
-    - 2.16.0-pre.1
-    - 2.16.0-pre.2
-    - 2.16.0-pre.3
-    - 2.17.0-pre
-    - 2.17.1-pre
-    - 2.17.2-pre
-    - 2.17.3-pre
-    - 2.18.0-pre
-    - 2.18.1-pre
-    - 2.18.1-pre.1
-    - 2.18.2-pre
-    - 2.18.3-pre
-    - 2.19.0-pre
-    - 2.20.0-pre
-    - 2.21.0-pre
-    - 2.21.1-pre
-    - 2.22.0-pre
-    - 2.22.1-pre
-    - 2.23.0-pre
-    - 2.24.0-pre
-    - 2.24.1-pre
-    - 2.25.0-pre
-    - 2.25.1-pre
-    - 2.25.2-pre
-    - 2.26.0-pre
-    - 2.26.1-pre
-    - 2.27.0-pre
-    - 2.27.1-pre
-    - 2.27.1-pre.1
-    - 2.27.2-pre
-    - 2.28.0-pre
-    - 2.29.0-pre
-    - 2.29.1-pre
-    - 2.30.0-pre
-    - 2.30.1-pre
-    - 2.31.0-pre
-    - 2.32.0-pre
-    - 2.33.0-pre
-    - 2.34.0-pre
-    - 2.35.0-pre
-    - 2.35.1-pre
-    - 2.35.2-pre
-    - 2.35.3-pre
-    - 2.35.4-pre
-    - 2.35.5-pre
-    - 2.36.0-pre
-    - 2.37.0-pre
-    - 2.37.1-pre
-    - 2.38.0-pre
-    - 2.38.1-pre
-    - 2.39.0-pre
-    - 2.39.1-pre
-    - 2.39.2-pre
-    - 2.39.3-pre
-    - 2.40.0-pre
-    - 2.41.0-pre
-    - 2.42.0-pre
-    - 2.43.0-pre
-    - 2.44.0-pre
-    - 2.44.1-pre
-    - 2.44.2-pre
-    - 2.45.0-pre
-    - 2.46.0-pre
-    - 2.47.0-pre
-    - 2.47.1-pre
-    - 2.47.2-pre
-    - 2.48.0-pre
-    - 2.49.0-pre
-    - 2.49.1-pre
-    - 2.50.0-pre
-    - 2.51.0-pre
-    - 2.52.0-pre
-    - 2.53.0-pre
-    - 2.53.1-pre
-    - 2.53.2-pre
-    - 2.53.3-pre.1
-    - 2.54.0-pre
-    - 2.54.0-pre.1
-    - 2.54.1-pre
-    - 2.54.2-pre
-    - 2.54.3-pre
-    - 2.55.0-pre
-    - 2.55.1-pre
-    - 2.55.2-pre
-    - 2.56.0-pre
-    - 2.56.1-pre
-    - 2.56.2-pre
-    - 2.57.0-pre
-    - 2.58.0-pre
-    - 2.58.1-pre
-    - 2.58.2-pre
-    - 2.58.2-pre.1
-    - 2.58.3-pre
-    - 2.58.4-pre
-    - 2.59.0-pre
-    - 2.59.1-pre
-    - 2.59.2-pre
-    - 2.59.2-pre.1
-    - 2.59.3-pre
-    - 2.60.0-pre
-    - 2.60.1-pre
-    - 2.60.1-pre.1
-    - 2.60.2-pre
-    - 2.60.2-pre.1
-    - 2.60.3-pre
-    - 2.60.4-pre
-    - 2.61.0-pre
-    - 2.62.0-pre
-    - 2.62.1-pre
-    - 2.62.2-pre
-    - 2.63.0-pre
-    - 2.63.1-pre
-    - 2.63.2-pre
-    - 2.63.3-pre
-    - 2.64.0-pre
-    - 2.65.0-pre
-    - 2.65.0-pre.1
-    - 2.65.1-pre
-    - 2.65.1-pre.1
-    - 2.65.1-pre.2
-    - 2.65.2-pre
-    - 2.66.0-pre
-    - 2.66.0-pre.1
-    - 2.66.1-pre
-    - 2.67.0-pre
-    - 2.67.1-pre
-    - 2.67.2-pre
-    - 2.67.3-pre
-    - 2.67.4-pre
-    - 2.67.5-pre
-    - 2.67.6-pre
-    - 2.67.7-pre
-    - 2.67.8-pre
-    - 2.67.8-pre.1
-    - 2.67.9-pre
-    - 2.67.10-pre
-    - 2.67.11-pre
-    - 2.67.12-pre
-    - 2.67.13-pre
-    - 2.67.14-pre
-    - 2.67.15-pre
-    - 2.67.16-pre
-    - 2.67.16-pre.1
-    - 2.67.16
-    - 2.67.17
-    - 2.67.18
-    - 3.1.0-exp
-    - 3.1.0-exp.1
-    - 3.1.0-exp.2
-    - 3.1.0-exp.3
-    - 3.2.0-exp
-    - 3.2.1-exp
-    - 3.2.2-exp
-    - 3.2.3-exp
-    - 3.2.4-exp
-    - 3.2.5-exp
-    - 3.2.6-exp
-    - 3.2.7-exp
-    - 3.2.8-exp
-    - 3.2.9-exp
-    - 3.2.10-exp
-    - 3.2.11-exp
-    - 3.2.12-exp
-    - 3.2.13-exp
-    - 3.2.13-exp.1
-    - 3.2.14-exp
-    - 3.2.15-exp
-    - 3.3.0-exp
-    - 3.4.0-exp
-    - 3.4.0-exp.1
-    - 3.5.0-exp
-    - 3.5.1-exp
-    - 3.5.2-exp
-    - 3.5.3-exp
-    - 3.5.3-exp.1
-    - 3.5.4-exp
-    - 3.5.5-exp
-    - 3.5.6-exp
-    - 3.5.7-exp
-    - 3.5.8-exp
-    - 3.5.9-exp
-    - 3.5.9-exp.1
-    - 3.5.9-exp.2
-    - 3.5.9-pr.1
-    - 3.5.9-pr.2
-    - 3.5.9-pre
-    - 3.5.9-pre.2
-    - 3.5.10-pre
-    - 3.5.11-pre
-    - 3.5.11-pre.1
-    - 3.5.12-pre
-    - 3.5.13-pre
-    - 3.6.0-exp
-    - 3.6.0-pre
-    - 3.6.1-pre
-    - 3.6.2-pre
-    - 3.6.2
-    - 3.6.3
-    - 3.6.4
-    - 3.6.5
-    - 3.6.6
-    - 3.6.7
-    - 3.6.8
-    - 3.6.9
-    - 3.6.10
-    - 3.6.11
-    - 3.6.13
-    - 3.6.14
-    - 3.6.15
-    - 3.6.16
-    - 3.6.17
-    - 3.7.0-exp
-    - 3.7.1-exp
-    - 3.7.2-exp
-    - 3.7.3-exp
-    - 3.7.4-exp
-    - 3.7.5-exp
-    - 3.7.5-pre
-    - 3.7.5-pre.1
-    - 3.7.5-pre.2
-    - 3.7.5-pre.3
-    - 3.7.6-pre
-    - 3.7.7-pre
-    - 3.8.0-exp
-    - 3.9.0-exp
-    - 3.9.1-exp
-    - 3.10.0-exp
-    - 3.10.0-pre
-    - 3.10.1-pre
-    - 3.10.2-pre
-    - 3.10.3-pre
-    - 3.10.4-pre
-    - 3.10.5-pre
-    - 3.10.6-pre
-    - 3.10.7-pre
-    - 3.11.0-pre
-    - 3.11.1-pre
-    - 3.11.2-pre
-    - 3.11.3-pre
-    - 3.11.4-pre
-    - 3.11.5-pre
-    - 3.11.6-pre
-    - 3.11.6
-    - 3.12.0-pre
-    - 3.12.0-pre.1
-    - 3.12.0-pre.2
-    - 3.12.0-pre.3
-    - 3.12.0-pre.4
-    - 3.12.1-pre
-    - 3.12.1-pre.1
-    - 3.12.2-pre
-    - 3.13.0-pre
-    - 3.14.0-pre
-    - 3.15.0-pre
-    - 3.16.0-pre
-    - 3.16.1-pre
-    - 3.16.2-pre
-    - 3.16.2
-    - 3.16.3
-    - 3.16.5
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.19.0-pre
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.19.4
-    - 3.19.7
-    - 3.19.8
-    - 3.19.9
-    - 3.20.0
-    - 3.20.1
-    - 3.20.2
-    - 3.20.3
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.21.5
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.22.4
-    - 3.22.5
-    - 3.22.6
-    - 3.23.0
-    - 3.23.1
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0
-    - 3.25.1
-    - 3.25.2
-    - 3.25.3
-    - 3.25.4
-    - 3.25.5
-    - 3.26.0-pre
-    - 3.26.1-pre
-    - 3.26.2-pre
-    - 3.27.0-pre
-    - 3.27.1-pre
-    - 3.27.2-pre
-    - 3.27.3-pre
-    - 3.27.4-pre
-    - 3.27.5-pre
-    - 3.28.0-pre
-    - 3.28.1-pre
-    - 3.28.2-pre
-    - 3.28.3-pre
-    - 3.28.4-pre
-    - 3.28.5-pre
-    - 3.28.6-pre
-    - 3.28.7-pre
-    - 3.28.7
-    - 3.28.8
-    - 3.29.0
-    - 3.30.0
-    - 3.31.0
-    - 3.31.1
-    - 3.31.2
-    - 3.31.5
-    - 3.31.6
-    - 3.31.7
-    - 3.31.8
-    - 3.32.0-exp
-    - 3.32.1-exp
-    - 3.32.2-exp
-    - 3.32.3-exp
-    - 3.32.4-exp
-    - 3.32.5-exp
-    - 3.32.6-exp
-    - 3.32.7-exp
-    - 3.32.8-exp
-    - 3.32.9-exp
-    - 3.32.10-exp
-    - 3.32.11-exp
-    - 3.32.12-exp
-    - 3.32.13-exp
-    - 3.32.14-exp
-    - 3.32.15-exp
-    - 3.32.16-exp
-    - 3.32.17-exp
-    - 3.32.18-exp
-    - 3.32.19-exp
-    - 3.32.20-exp
-    - 3.32.21-exp
-    - 3.32.22-exp
-    - 3.32.23-exp
-    - 3.32.24-exp
-    - 3.32.25-exp
-    - 3.32.26-exp
-    - 3.32.27-exp
-    - 3.32.28-pre
-    - 3.33.0-pre
-    - 3.34.0-exp
-    - 3.34.0-exp.2
-    - 3.34.0-exp.3
-    - 3.34.1-exp
-    - 3.34.1-exp.1
-    - 3.34.2-exp
-    - 3.34.2-exp.1
-    - 3.34.2-exp.2
-    - 3.34.3-exp
-    - 3.34.3-exp.1
-    - 3.34.3-exp.2
-    - 3.34.3-exp.3
-    - 3.34.4-exp
-    - 3.34.4-exp.1
-    - 3.35.0-exp
-    - 3.35.0-pre
-    - 3.35.1-pre
-    - 3.36.0-pre
-    - 3.36.1-pre
-    - 3.36.2-pre
-    - 3.36.3-pre
-    - 3.36.4-pre
-    - 3.36.5-pre
-    - 3.36.6-pre
-    - 3.36.6
-    - 3.37.0-exp
-    - 3.37.1-exp
-    - 3.37.2-exp
-    - 3.37.3-exp
-    - 3.37.4-exp
-    - 3.37.5-exp
-    - 3.37.6-exp
-    - 3.37.6-pre
-    - 3.37.7-pre
-    - 3.37.8-exp
-    - 3.37.8-exp.2
-    - 3.37.9-exp
-    - 3.37.10-exp
-    - 3.37.10-exp.1
-    - 3.37.11-exp
-    - 3.37.12-exp
-    - 3.37.13-exp
-    - 3.37.14-exp
-    - 3.37.15-exp
-    - 3.37.16-exp
-    - 3.38.0-exp
-    - 3.38.0-exp.1
-    - 3.39.0-exp
-    - 3.39.0-exp.1
-    - 3.39.0-exp.2
-    - 3.40.0-exp
-    - 3.40.0-exp.1
-    - 3.41.0-exp
-    - 3.41.1-exp
-    - 3.44.0-pre
-    - 3.44.0
-    - 3.44.1
-    - 3.44.4
-    - 3.44.5
-    - 3.44.6
-    - 3.45.0-pre
-    - 3.45.1-pre
-    - 3.45.2-pre
-    - 3.46.0-pre
-    - 3.46.0-pre.1
-    - 3.46.1-pre
-    - 3.46.1-pre.1
-    - 3.46.1-pre.2
-    - 3.47.0-pre
-    - 3.47.1-pre
-    - 3.47.2-pre
-    - 3.47.3-pre
-    - 3.47.4-pre
-    - 3.47.5-pre
-    - 3.47.5-pre.1
-    - 3.47.6-pre
-    - 3.47.6
-    compatible:
-    - 2.9.3-pre
-    - 2.9.4-pre
-    - 2.9.4-pre.1
-    - 2.9.5-pre
-    - 2.10.0-pre
-    - 2.11.0-pre
-    - 2.12.0-pre
-    - 2.12.1-pre
-    - 2.13.0-pre
-    - 2.13.1-pre
-    - 2.14.0-pre
-    - 2.14.1-pre
-    - 2.14.2-pre
-    - 2.15.0-pre
-    - 2.15.1-pre
-    - 2.16.0-pre
-    - 2.16.0-pre.1
-    - 2.16.0-pre.2
-    - 2.16.0-pre.3
-    - 2.17.0-pre
-    - 2.17.1-pre
-    - 2.17.2-pre
-    - 2.17.3-pre
-    - 2.18.0-pre
-    - 2.18.1-pre
-    - 2.18.1-pre.1
-    - 2.18.2-pre
-    - 2.18.3-pre
-    - 2.19.0-pre
-    - 2.20.0-pre
-    - 2.21.0-pre
-    - 2.21.1-pre
-    - 2.22.0-pre
-    - 2.22.1-pre
-    - 2.23.0-pre
-    - 2.24.0-pre
-    - 2.24.1-pre
-    - 2.25.0-pre
-    - 2.25.1-pre
-    - 2.25.2-pre
-    - 2.26.0-pre
-    - 2.26.1-pre
-    - 2.27.0-pre
-    - 2.27.1-pre
-    - 2.27.1-pre.1
-    - 2.27.2-pre
-    - 2.28.0-pre
-    - 2.29.0-pre
-    - 2.29.1-pre
-    - 2.30.0-pre
-    - 2.30.1-pre
-    - 2.31.0-pre
-    - 2.32.0-pre
-    - 2.33.0-pre
-    - 2.34.0-pre
-    - 2.35.0-pre
-    - 2.35.1-pre
-    - 2.35.2-pre
-    - 2.35.3-pre
-    - 2.35.4-pre
-    - 2.35.5-pre
-    - 2.36.0-pre
-    - 2.37.0-pre
-    - 2.37.1-pre
-    - 2.38.0-pre
-    - 2.38.1-pre
-    - 2.39.0-pre
-    - 2.39.1-pre
-    - 2.39.2-pre
-    - 2.39.3-pre
-    - 2.40.0-pre
-    - 2.41.0-pre
-    - 2.42.0-pre
-    - 2.43.0-pre
-    - 2.44.0-pre
-    - 2.44.1-pre
-    - 2.44.2-pre
-    - 2.45.0-pre
-    - 2.46.0-pre
-    - 2.47.0-pre
-    - 2.47.1-pre
-    - 2.47.2-pre
-    - 2.48.0-pre
-    - 2.49.0-pre
-    - 2.49.1-pre
-    - 2.50.0-pre
-    - 2.51.0-pre
-    - 2.52.0-pre
-    - 2.53.0-pre
-    - 2.53.1-pre
-    - 2.53.2-pre
-    - 2.53.3-pre.1
-    - 2.54.0-pre
-    - 2.54.0-pre.1
-    - 2.54.1-pre
-    - 2.54.2-pre
-    - 2.54.3-pre
-    - 2.55.0-pre
-    - 2.55.1-pre
-    - 2.55.2-pre
-    - 2.56.0-pre
-    - 2.56.1-pre
-    - 2.56.2-pre
-    - 2.57.0-pre
-    - 2.58.0-pre
-    - 2.58.1-pre
-    - 2.58.2-pre
-    - 2.58.2-pre.1
-    - 2.58.3-pre
-    - 2.58.4-pre
-    - 2.59.0-pre
-    - 2.59.1-pre
-    - 2.59.2-pre
-    - 2.59.2-pre.1
-    - 2.59.3-pre
-    - 2.60.0-pre
-    - 2.60.1-pre
-    - 2.60.1-pre.1
-    - 2.60.2-pre
-    - 2.60.2-pre.1
-    - 2.60.3-pre
-    - 2.60.4-pre
-    - 2.61.0-pre
-    - 2.62.0-pre
-    - 2.62.1-pre
-    - 2.62.2-pre
-    - 2.63.0-pre
-    - 2.63.1-pre
-    - 2.63.2-pre
-    - 2.63.3-pre
-    - 2.64.0-pre
-    - 2.65.0-pre
-    - 2.65.0-pre.1
-    - 2.65.1-pre
-    - 2.65.1-pre.1
-    - 2.65.1-pre.2
-    - 2.65.2-pre
-    - 2.66.0-pre
-    - 2.66.0-pre.1
-    - 2.66.1-pre
-    - 2.67.0-pre
-    - 2.67.1-pre
-    - 2.67.2-pre
-    - 2.67.3-pre
-    - 2.67.4-pre
-    - 2.67.5-pre
-    - 2.67.6-pre
-    - 2.67.7-pre
-    - 2.67.8-pre
-    - 2.67.8-pre.1
-    - 2.67.9-pre
-    - 2.67.10-pre
-    - 2.67.11-pre
-    - 2.67.12-pre
-    - 2.67.13-pre
-    - 2.67.14-pre
-    - 2.67.15-pre
-    - 2.67.16-pre
-    - 2.67.16-pre.1
-    - 2.67.16
-    - 2.67.17
-    - 2.67.18
-    - 3.1.0-exp
-    - 3.1.0-exp.1
-    - 3.1.0-exp.2
-    - 3.1.0-exp.3
-    - 3.2.0-exp
-    - 3.2.1-exp
-    - 3.2.2-exp
-    - 3.2.3-exp
-    - 3.2.4-exp
-    - 3.2.5-exp
-    - 3.2.6-exp
-    - 3.2.7-exp
-    - 3.2.8-exp
-    - 3.2.9-exp
-    - 3.2.10-exp
-    - 3.2.11-exp
-    - 3.2.12-exp
-    - 3.2.13-exp
-    - 3.2.13-exp.1
-    - 3.2.14-exp
-    - 3.2.15-exp
-    - 3.3.0-exp
-    - 3.4.0-exp
-    - 3.4.0-exp.1
-    - 3.5.0-exp
-    - 3.5.1-exp
-    - 3.5.2-exp
-    - 3.5.3-exp
-    - 3.5.3-exp.1
-    - 3.5.4-exp
-    - 3.5.5-exp
-    - 3.5.6-exp
-    - 3.5.7-exp
-    - 3.5.8-exp
-    - 3.5.9-exp
-    - 3.5.9-exp.1
-    - 3.5.9-exp.2
-    - 3.5.9-pr.1
-    - 3.5.9-pr.2
-    - 3.5.9-pre
-    - 3.5.9-pre.2
-    - 3.5.10-pre
-    - 3.5.11-pre
-    - 3.5.11-pre.1
-    - 3.5.12-pre
-    - 3.5.13-pre
-    - 3.6.0-exp
-    - 3.6.0-pre
-    - 3.6.1-pre
-    - 3.6.2-pre
-    - 3.6.2
-    - 3.6.3
-    - 3.6.4
-    - 3.6.5
-    - 3.6.6
-    - 3.6.7
-    - 3.6.8
-    - 3.6.9
-    - 3.6.10
-    - 3.6.11
-    - 3.6.13
-    - 3.6.14
-    - 3.6.15
-    - 3.6.16
-    - 3.6.17
-    - 3.7.0-exp
-    - 3.7.1-exp
-    - 3.7.2-exp
-    - 3.7.3-exp
-    - 3.7.4-exp
-    - 3.7.5-exp
-    - 3.7.5-pre
-    - 3.7.5-pre.1
-    - 3.7.5-pre.2
-    - 3.7.5-pre.3
-    - 3.7.6-pre
-    - 3.7.7-pre
-    - 3.8.0-exp
-    - 3.9.0-exp
-    - 3.9.1-exp
-    - 3.10.0-exp
-    - 3.10.0-pre
-    - 3.10.1-pre
-    - 3.10.2-pre
-    - 3.10.3-pre
-    - 3.10.4-pre
-    - 3.10.5-pre
-    - 3.10.6-pre
-    - 3.10.7-pre
-    - 3.11.0-pre
-    - 3.11.1-pre
-    - 3.11.2-pre
-    - 3.11.3-pre
-    - 3.11.4-pre
-    - 3.11.5-pre
-    - 3.11.6-pre
-    - 3.11.6
-    - 3.12.0-pre
-    - 3.12.0-pre.1
-    - 3.12.0-pre.2
-    - 3.12.0-pre.3
-    - 3.12.0-pre.4
-    - 3.12.1-pre
-    - 3.12.1-pre.1
-    - 3.12.2-pre
-    - 3.13.0-pre
-    - 3.14.0-pre
-    - 3.15.0-pre
-    - 3.16.0-pre
-    - 3.16.1-pre
-    - 3.16.2-pre
-    - 3.16.2
-    - 3.16.3
-    - 3.16.5
-    - 3.17.0
-    - 3.17.1
-    - 3.18.0
-    - 3.19.0-pre
-    - 3.19.0
-    - 3.19.1
-    - 3.19.2
-    - 3.19.3
-    - 3.19.4
-    - 3.19.7
-    - 3.19.8
-    - 3.19.9
-    - 3.20.0
-    - 3.20.1
-    - 3.20.2
-    - 3.20.3
-    - 3.21.0
-    - 3.21.1
-    - 3.21.2
-    - 3.21.3
-    - 3.21.5
-    - 3.22.0
-    - 3.22.1
-    - 3.22.2
-    - 3.22.3
-    - 3.22.4
-    - 3.22.5
-    - 3.22.6
-    - 3.23.0
-    - 3.23.1
-    - 3.24.0
-    - 3.24.1
-    - 3.25.0
-    - 3.25.1
-    - 3.25.2
-    - 3.25.3
-    - 3.25.4
-    - 3.25.5
-    - 3.26.0-pre
-    - 3.26.1-pre
-    - 3.26.2-pre
-    - 3.27.0-pre
-    - 3.27.1-pre
-    - 3.27.2-pre
-    - 3.27.3-pre
-    - 3.27.4-pre
-    - 3.27.5-pre
-    - 3.28.0-pre
-    - 3.28.1-pre
-    - 3.28.2-pre
-    - 3.28.3-pre
-    - 3.28.4-pre
-    - 3.28.5-pre
-    - 3.28.6-pre
-    - 3.28.7-pre
-    - 3.28.7
-    - 3.28.8
-    - 3.29.0
-    - 3.30.0
-    - 3.31.0
-    - 3.31.1
-    - 3.31.2
-    - 3.31.5
-    - 3.31.6
-    - 3.31.7
-    - 3.31.8
-    - 3.32.0-exp
-    - 3.32.1-exp
-    - 3.32.2-exp
-    - 3.32.3-exp
-    - 3.32.4-exp
-    - 3.32.5-exp
-    - 3.32.6-exp
-    - 3.32.7-exp
-    - 3.32.8-exp
-    - 3.32.9-exp
-    - 3.32.10-exp
-    - 3.32.11-exp
-    - 3.32.12-exp
-    - 3.32.13-exp
-    - 3.32.14-exp
-    - 3.32.15-exp
-    - 3.32.16-exp
-    - 3.32.17-exp
-    - 3.32.18-exp
-    - 3.32.19-exp
-    - 3.32.20-exp
-    - 3.32.21-exp
-    - 3.32.22-exp
-    - 3.32.23-exp
-    - 3.32.24-exp
-    - 3.32.25-exp
-    - 3.32.26-exp
-    - 3.32.27-exp
-    - 3.32.28-pre
-    - 3.33.0-pre
-    - 3.34.0-exp
-    - 3.34.0-exp.2
-    - 3.34.0-exp.3
-    - 3.34.1-exp
-    - 3.34.1-exp.1
-    - 3.34.2-exp
-    - 3.34.2-exp.1
-    - 3.34.2-exp.2
-    - 3.34.3-exp
-    - 3.34.3-exp.1
-    - 3.34.3-exp.2
-    - 3.34.3-exp.3
-    - 3.34.4-exp
-    - 3.34.4-exp.1
-    - 3.35.0-exp
-    - 3.35.0-pre
-    - 3.35.1-pre
-    - 3.36.0-pre
-    - 3.36.1-pre
-    - 3.36.2-pre
-    - 3.36.3-pre
-    - 3.36.4-pre
-    - 3.36.5-pre
-    - 3.36.6-pre
-    - 3.36.6
-    - 3.37.0-exp
-    - 3.37.1-exp
-    - 3.37.2-exp
-    - 3.37.3-exp
-    - 3.37.4-exp
-    - 3.37.5-exp
-    - 3.37.6-exp
-    - 3.37.6-pre
-    - 3.37.7-pre
-    - 3.37.8-exp
-    - 3.37.8-exp.2
-    - 3.37.9-exp
-    - 3.37.10-exp
-    - 3.37.10-exp.1
-    - 3.37.11-exp
-    - 3.37.12-exp
-    - 3.37.13-exp
-    - 3.37.14-exp
-    - 3.37.15-exp
-    - 3.37.16-exp
-    - 3.38.0-exp
-    - 3.38.0-exp.1
-    - 3.39.0-exp
-    - 3.39.0-exp.1
-    - 3.39.0-exp.2
-    - 3.40.0-exp
-    - 3.40.0-exp.1
-    - 3.41.0-exp
-    - 3.41.1-exp
-    - 3.44.0-pre
-    - 3.44.0
-    - 3.44.1
-    - 3.44.4
-    - 3.44.5
-    - 3.44.6
-    - 3.45.0-pre
-    - 3.45.1-pre
-    - 3.45.2-pre
-    - 3.46.0-pre
-    - 3.46.0-pre.1
-    - 3.46.1-pre
-    - 3.46.1-pre.1
-    - 3.46.1-pre.2
-    - 3.47.0-pre
-    - 3.47.1-pre
-    - 3.47.2-pre
-    - 3.47.3-pre
-    - 3.47.4-pre
-    - 3.47.5-pre
-    - 3.47.5-pre.1
-    - 3.47.6-pre
-    - 3.47.6
-    recommended: 
-    deprecated: []
-  dependencies:
-  - name: org.khronos.unitygltf
-    version: 2.12.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.video
-    version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 10.8.0
-  - name: com.unity.timeline
-    version: 1.5.7
-  - name: com.unity.test-framework
-    version: 1.1.31
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.1
-  - name: com.unity.sharp-zip-lib
-    version: 1.3.2-preview
-  resolvedDependencies:
-  - name: org.khronos.unitygltf
-    version: 2.12.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
-  - name: com.unity.modules.imageconversion
-    version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 16.0.5
-  - name: com.unity.render-pipelines.core
-    version: 16.0.5
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.collections
-    version: 1.4.0
-  - name: com.unity.burst
-    version: 1.8.13
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.searcher
-    version: 4.9.2
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.video
-    version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
-  - name: com.unity.timeline
-    version: 1.8.6
-  - name: com.unity.modules.director
-    version: 1.0.0
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  - name: com.unity.sharp-zip-lib
-    version: 1.3.2-preview
-  keywords:
-  - Three.js
-  - Export
-  - Platform
-  - Runtime
-  - WebGL
-  registry:
-    id: scoped:project:needle
-    name: needle
-    url: https://packages.needle.tools
-    scopes:
-    - com.needle
-    - org.khronos
-    isDefault: 0
-    capabilities: 0
-    configSource: 4
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638608819310070000
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: org.khronos.unitygltf@2.12.0
-  testable: 0
-  isDirectDependency: 0
-  version: 2.12.0
-  source: 1
-  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\org.khronos.unitygltf@2.12.0
-  assetPath: Packages/org.khronos.unitygltf
-  name: org.khronos.unitygltf
-  displayName: UnityGLTF
-  author:
-    name: Khronos Group
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Import and export glTF 2.0 assets, both in the editor and at runtime.
-    Excellent support for animations, materials, extensions. Can be extended with
-    plugins for both import and export usecases.
-  errors: []
-  versions:
-    all:
-    - 1.6.1-pre
-    - 1.7.0-pre
-    - 1.7.1-pre
-    - 1.7.1-pre.2
-    - 1.7.1-pre.3
-    - 1.8.0-pre
-    - 1.8.0-pre.2
-    - 1.8.1-pre
-    - 1.9.0-pre
-    - 1.10.0-pre
-    - 1.10.1-pre
-    - 1.11.0-pre
-    - 1.12.0-pre
-    - 1.12.1-pre
-    - 1.12.2-pre
-    - 1.13.0-pre
-    - 1.14.0-pre
-    - 1.15.0-pre
-    - 1.16.0-pre
-    - 1.16.1-pre
-    - 1.16.2-pre
-    - 1.16.3-pre
-    - 1.17.0-pre
-    - 1.17.1-pre
-    - 1.17.2-pre
-    - 1.18.0-pre
-    - 1.18.1-pre
-    - 1.18.2-pre
-    - 1.18.3-pre
-    - 1.18.4-pre
-    - 1.18.5-pre
-    - 1.19.0-pre
-    - 1.19.1-pre
-    - 1.20.0-pre
-    - 1.20.1-pre
-    - 1.20.2-pre
-    - 1.20.3-pre
-    - 1.21.0-pre
-    - 1.21.1-pre
-    - 1.22.0-pre
-    - 1.22.1-pre
-    - 1.22.2-pre
-    - 1.22.3-pre
-    - 1.22.4-pre
-    - 1.23.0-pre
-    - 1.23.1-pre
-    - 1.24.0-pre
-    - 1.24.0-pre.2
-    - 1.24.0-pre.3
-    - 1.24.1-pre
-    - 1.24.2-pre
-    - 2.0.0-exp
-    - 2.0.0-exp.1
-    - 2.0.0-exp.2
-    - 2.0.1-exp
-    - 2.0.2-exp
-    - 2.0.3-exp
-    - 2.0.4-exp
-    - 2.1.0-exp
-    - 2.1.0-exp.1
-    - 2.1.1-exp
-    - 2.1.2-exp
-    - 2.2.0-exp
-    - 2.3.0-exp
-    - 2.3.1-exp
-    - 2.4.0-exp
-    - 2.4.1-exp
-    - 2.4.2-exp
-    - 2.5.0-exp
-    - 2.5.1-exp
-    - 2.5.2-exp
-    - 2.6.0-exp
-    - 2.7.0-exp
-    - 2.7.1-exp
-    - 2.8.0-exp
-    - 2.8.1-exp
-    - 2.9.0-rc
-    - 2.9.1-rc
-    - 2.10.0-rc
-    - 2.10.0-rc.2
-    - 2.10.1-rc
-    - 2.10.2-rc
-    - 2.11.0-rc
-    - 2.12.0
-    - 2.13.0
-    compatible:
-    - 1.6.1-pre
-    - 1.7.0-pre
-    - 1.7.1-pre
-    - 1.7.1-pre.2
-    - 1.7.1-pre.3
-    - 1.8.0-pre
-    - 1.8.0-pre.2
-    - 1.8.1-pre
-    - 1.9.0-pre
-    - 1.10.0-pre
-    - 1.10.1-pre
-    - 1.11.0-pre
-    - 1.12.0-pre
-    - 1.12.1-pre
-    - 1.12.2-pre
-    - 1.13.0-pre
-    - 1.14.0-pre
-    - 1.15.0-pre
-    - 1.16.0-pre
-    - 1.16.1-pre
-    - 1.16.2-pre
-    - 1.16.3-pre
-    - 1.17.0-pre
-    - 1.17.1-pre
-    - 1.17.2-pre
-    - 1.18.0-pre
-    - 1.18.1-pre
-    - 1.18.2-pre
-    - 1.18.3-pre
-    - 1.18.4-pre
-    - 1.18.5-pre
-    - 1.19.0-pre
-    - 1.19.1-pre
-    - 1.20.0-pre
-    - 1.20.1-pre
-    - 1.20.2-pre
-    - 1.20.3-pre
-    - 1.21.0-pre
-    - 1.21.1-pre
-    - 1.22.0-pre
-    - 1.22.1-pre
-    - 1.22.2-pre
-    - 1.22.3-pre
-    - 1.22.4-pre
-    - 1.23.0-pre
-    - 1.23.1-pre
-    - 1.24.0-pre
-    - 1.24.0-pre.2
-    - 1.24.0-pre.3
-    - 1.24.1-pre
-    - 1.24.2-pre
-    - 2.0.0-exp
-    - 2.0.0-exp.1
-    - 2.0.0-exp.2
-    - 2.0.1-exp
-    - 2.0.2-exp
-    - 2.0.3-exp
-    - 2.0.4-exp
-    - 2.1.0-exp
-    - 2.1.0-exp.1
-    - 2.1.1-exp
-    - 2.1.2-exp
-    - 2.2.0-exp
-    - 2.3.0-exp
-    - 2.3.1-exp
-    - 2.4.0-exp
-    - 2.4.1-exp
-    - 2.4.2-exp
-    - 2.5.0-exp
-    - 2.5.1-exp
-    - 2.5.2-exp
-    - 2.6.0-exp
-    - 2.7.0-exp
-    - 2.7.1-exp
-    - 2.8.0-exp
-    - 2.8.1-exp
-    - 2.9.0-rc
-    - 2.9.1-rc
-    - 2.10.0-rc
-    - 2.10.0-rc.2
-    - 2.10.1-rc
-    - 2.10.2-rc
-    - 2.11.0-rc
-    - 2.12.0
-    - 2.13.0
-    recommended: 
-    deprecated: []
-  dependencies:
-  - name: com.unity.nuget.newtonsoft-json
-    version: 2.0.0
-  - name: com.unity.modules.imageconversion
-    version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 10.0.0
-  - name: com.unity.mathematics
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.2.1
-  - name: com.unity.modules.imageconversion
-    version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 16.0.5
-  - name: com.unity.render-pipelines.core
-    version: 16.0.5
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.collections
-    version: 1.4.0
-  - name: com.unity.burst
-    version: 1.8.13
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.searcher
-    version: 4.9.2
-  keywords:
-  - gltf
-  - khronos
-  - runtime
-  - loader
-  - import
-  - export
-  registry:
-    id: scoped:project:needle
-    name: needle
-    url: https://packages.needle.tools
-    scopes:
-    - com.needle
-    - org.khronos
-    isDefault: 0
-    capabilities: 0
-    configSource: 4
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 638505920037460000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: 
-    url: git+https://github.com/KhronosGroup/UnityGLTF.git
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.shadergraph@16.0.5
-  testable: 0
-  isDirectDependency: 0
-  version: 16.0.5
-  source: 2
-  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.shadergraph@16.0.5
-  assetPath: Packages/com.unity.shadergraph
-  name: com.unity.shadergraph
-  displayName: Shader Graph
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Shader Graph package adds a visual Shader editing tool to Unity.
-    You can use this tool to create Shaders in a visual way instead of writing code.
-    Specific render pipelines can implement specific graph features. Currently, both
-    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
-    Shader Graph.
-  errors: []
-  versions:
-    all:
-    - 0.1.8
-    - 0.1.9
-    - 0.1.17
-    - 1.0.0-beta
-    - 1.1.1-preview
-    - 1.1.2-preview
-    - 1.1.3-preview
-    - 1.1.4-preview
-    - 1.1.5-preview
-    - 1.1.6-preview
-    - 1.1.8-preview
-    - 1.1.9-preview
-    - 2.0.1-preview
-    - 2.0.3-preview
-    - 2.0.4-preview
-    - 2.0.4-preview.1
-    - 2.0.5-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 3.0.0-preview
-    - 3.1.0-preview
-    - 3.3.0-preview
-    - 4.0.0-preview
-    - 4.0.1-preview
-    - 4.1.0-preview
-    - 4.2.0-preview
-    - 4.3.0-preview
-    - 4.6.0-preview
-    - 4.8.0-preview
-    - 4.9.0-preview
-    - 4.10.0-preview
-    - 5.0.0-preview
-    - 5.1.0
-    - 5.2.0
-    - 5.2.1
-    - 5.2.2
-    - 5.2.3
-    - 5.3.1
-    - 5.6.1
-    - 5.7.2
-    - 5.8.2
-    - 5.9.0
-    - 5.10.0
-    - 5.13.0
-    - 5.16.1
-    - 6.5.2
-    - 6.5.3
-    - 6.7.1
-    - 6.9.0
-    - 6.9.1
-    - 6.9.2
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 7.7.1
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.14
-    - 9.0.0-preview.34
-    - 9.0.0-preview.55
-    - 9.0.0-preview.72
-    - 10.0.0-preview.27
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 10.6.0
-    - 10.7.0
-    - 10.8.0
-    - 10.8.1
-    - 10.9.0
-    - 10.10.0
-    - 10.10.1
-    - 16.0.5
-    compatible:
-    - 16.0.5
-    recommended: 16.0.5
-    deprecated: []
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 16.0.5
-  - name: com.unity.searcher
-    version: 4.9.2
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 16.0.5
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.terrain
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.rendering.light-transport
-    version: 1.0.1
-  - name: com.unity.collections
-    version: 1.4.0
-  - name: com.unity.burst
-    version: 1.8.13
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.nuget.mono-cecil
-    version: 1.11.4
-  - name: com.unity.searcher
-    version: 4.9.2
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 16.0.5
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.nuget.newtonsoft-json@3.2.1
-  testable: 0
-  isDirectDependency: 0
-  version: 3.2.1
-  source: 1
-  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.2.
-
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
-    - 3.1.0
-    - 3.2.0
-    - 3.2.1
-    compatible:
-    - 3.2.1
-    recommended: 3.2.1
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638186318800000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: d8e49aef8979bef617144382052ec2f479645eaf
-    path: 
-  unityLifecycle:
-    version: 3.2.1
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
-    2.0."}'
-  assetStore:
-    productId: 
-- packageId: com.unity.sharp-zip-lib@1.3.2-preview
-  testable: 0
-  isDirectDependency: 0
-  version: 1.3.2-preview
-  source: 1
-  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.sharp-zip-lib@1.3.2-preview
-  assetPath: Packages/com.unity.sharp-zip-lib
-  name: com.unity.sharp-zip-lib
-  displayName: SharpZipLib
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: A package that wraps SharpZipLib (https://github.com/icsharpcode/SharpZipLib)
-    to be used inside Unity
-  errors: []
-  versions:
-    all:
-    - 1.2.0-preview
-    - 1.2.2-preview
-    - 1.2.2-preview.1
-    - 1.2.2-preview.2
-    - 1.3.0-preview
-    - 1.3.2-preview
-    - 1.3.3-preview
-    - 1.3.4-preview
-    - 1.3.5-preview
-    - 1.3.6-preview
-    - 1.3.7-pre.1
-    - 1.3.7
-    - 1.3.8
-    compatible:
-    - 1.2.0-preview
-    - 1.2.2-preview
-    - 1.2.2-preview.1
-    - 1.2.2-preview.2
-    - 1.3.0-preview
-    - 1.3.2-preview
-    - 1.3.3-preview
-    - 1.3.4-preview
-    - 1.3.5-preview
-    - 1.3.6-preview
-    - 1.3.7-pre.1
-    - 1.3.7
-    - 1.3.8
-    recommended: 
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637938093740000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/SharpZipLib.git
-    revision: 12cdd575f479645f5ef7c03eb1952ed49a1f1521
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"* Re-releasing 1.3.1-preview as 1.3.2-preview"}'
-  assetStore:
-    productId: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
@@ -5678,6 +5037,657 @@ m_ResolvedPackages:
     hash: 
     revision: 
   upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.shadergraph@16.0.5
+  testable: 0
+  isDirectDependency: 0
+  version: 16.0.5
+  source: 2
+  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.shadergraph@16.0.5
+  assetPath: Packages/com.unity.shadergraph
+  name: com.unity.shadergraph
+  displayName: Shader Graph
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Shader Graph package adds a visual Shader editing tool to Unity.
+    You can use this tool to create Shaders in a visual way instead of writing code.
+    Specific render pipelines can implement specific graph features. Currently, both
+    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
+    Shader Graph.
+  errors: []
+  versions:
+    all:
+    - 0.1.8
+    - 0.1.9
+    - 0.1.17
+    - 1.0.0-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.3-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.6-preview
+    - 1.1.8-preview
+    - 1.1.9-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.34
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.27
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
+    - 16.0.5
+    compatible:
+    - 16.0.5
+    recommended: 16.0.5
+    deprecated: []
+  dependencies:
+  - name: com.unity.render-pipelines.core
+    version: 16.0.5
+  - name: com.unity.searcher
+    version: 4.9.2
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.core
+    version: 16.0.5
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.rendering.light-transport
+    version: 1.0.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.test-framework
+    version: 1.3.9
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.searcher
+    version: 4.9.2
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 16.0.5
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: org.khronos.unitygltf@2.12.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.12.0
+  source: 1
+  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\org.khronos.unitygltf@2.12.0
+  assetPath: Packages/org.khronos.unitygltf
+  name: org.khronos.unitygltf
+  displayName: UnityGLTF
+  author:
+    name: Khronos Group
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Import and export glTF 2.0 assets, both in the editor and at runtime.
+    Excellent support for animations, materials, extensions. Can be extended with
+    plugins for both import and export usecases.
+  errors: []
+  versions:
+    all:
+    - 1.6.1-pre
+    - 1.7.0-pre
+    - 1.7.1-pre
+    - 1.7.1-pre.2
+    - 1.7.1-pre.3
+    - 1.8.0-pre
+    - 1.8.0-pre.2
+    - 1.8.1-pre
+    - 1.9.0-pre
+    - 1.10.0-pre
+    - 1.10.1-pre
+    - 1.11.0-pre
+    - 1.12.0-pre
+    - 1.12.1-pre
+    - 1.12.2-pre
+    - 1.13.0-pre
+    - 1.14.0-pre
+    - 1.15.0-pre
+    - 1.16.0-pre
+    - 1.16.1-pre
+    - 1.16.2-pre
+    - 1.16.3-pre
+    - 1.17.0-pre
+    - 1.17.1-pre
+    - 1.17.2-pre
+    - 1.18.0-pre
+    - 1.18.1-pre
+    - 1.18.2-pre
+    - 1.18.3-pre
+    - 1.18.4-pre
+    - 1.18.5-pre
+    - 1.19.0-pre
+    - 1.19.1-pre
+    - 1.20.0-pre
+    - 1.20.1-pre
+    - 1.20.2-pre
+    - 1.20.3-pre
+    - 1.21.0-pre
+    - 1.21.1-pre
+    - 1.22.0-pre
+    - 1.22.1-pre
+    - 1.22.2-pre
+    - 1.22.3-pre
+    - 1.22.4-pre
+    - 1.23.0-pre
+    - 1.23.1-pre
+    - 1.24.0-pre
+    - 1.24.0-pre.2
+    - 1.24.0-pre.3
+    - 1.24.1-pre
+    - 1.24.2-pre
+    - 2.0.0-exp
+    - 2.0.0-exp.1
+    - 2.0.0-exp.2
+    - 2.0.1-exp
+    - 2.0.2-exp
+    - 2.0.3-exp
+    - 2.0.4-exp
+    - 2.1.0-exp
+    - 2.1.0-exp.1
+    - 2.1.1-exp
+    - 2.1.2-exp
+    - 2.2.0-exp
+    - 2.3.0-exp
+    - 2.3.1-exp
+    - 2.4.0-exp
+    - 2.4.1-exp
+    - 2.4.2-exp
+    - 2.5.0-exp
+    - 2.5.1-exp
+    - 2.5.2-exp
+    - 2.6.0-exp
+    - 2.7.0-exp
+    - 2.7.1-exp
+    - 2.8.0-exp
+    - 2.8.1-exp
+    - 2.9.0-rc
+    - 2.9.1-rc
+    - 2.10.0-rc
+    - 2.10.0-rc.2
+    - 2.10.1-rc
+    - 2.10.2-rc
+    - 2.11.0-rc
+    - 2.12.0
+    - 2.13.0
+    compatible:
+    - 1.6.1-pre
+    - 1.7.0-pre
+    - 1.7.1-pre
+    - 1.7.1-pre.2
+    - 1.7.1-pre.3
+    - 1.8.0-pre
+    - 1.8.0-pre.2
+    - 1.8.1-pre
+    - 1.9.0-pre
+    - 1.10.0-pre
+    - 1.10.1-pre
+    - 1.11.0-pre
+    - 1.12.0-pre
+    - 1.12.1-pre
+    - 1.12.2-pre
+    - 1.13.0-pre
+    - 1.14.0-pre
+    - 1.15.0-pre
+    - 1.16.0-pre
+    - 1.16.1-pre
+    - 1.16.2-pre
+    - 1.16.3-pre
+    - 1.17.0-pre
+    - 1.17.1-pre
+    - 1.17.2-pre
+    - 1.18.0-pre
+    - 1.18.1-pre
+    - 1.18.2-pre
+    - 1.18.3-pre
+    - 1.18.4-pre
+    - 1.18.5-pre
+    - 1.19.0-pre
+    - 1.19.1-pre
+    - 1.20.0-pre
+    - 1.20.1-pre
+    - 1.20.2-pre
+    - 1.20.3-pre
+    - 1.21.0-pre
+    - 1.21.1-pre
+    - 1.22.0-pre
+    - 1.22.1-pre
+    - 1.22.2-pre
+    - 1.22.3-pre
+    - 1.22.4-pre
+    - 1.23.0-pre
+    - 1.23.1-pre
+    - 1.24.0-pre
+    - 1.24.0-pre.2
+    - 1.24.0-pre.3
+    - 1.24.1-pre
+    - 1.24.2-pre
+    - 2.0.0-exp
+    - 2.0.0-exp.1
+    - 2.0.0-exp.2
+    - 2.0.1-exp
+    - 2.0.2-exp
+    - 2.0.3-exp
+    - 2.0.4-exp
+    - 2.1.0-exp
+    - 2.1.0-exp.1
+    - 2.1.1-exp
+    - 2.1.2-exp
+    - 2.2.0-exp
+    - 2.3.0-exp
+    - 2.3.1-exp
+    - 2.4.0-exp
+    - 2.4.1-exp
+    - 2.4.2-exp
+    - 2.5.0-exp
+    - 2.5.1-exp
+    - 2.5.2-exp
+    - 2.6.0-exp
+    - 2.7.0-exp
+    - 2.7.1-exp
+    - 2.8.0-exp
+    - 2.8.1-exp
+    - 2.9.0-rc
+    - 2.9.1-rc
+    - 2.10.0-rc
+    - 2.10.0-rc.2
+    - 2.10.1-rc
+    - 2.10.2-rc
+    - 2.11.0-rc
+    - 2.12.0
+    - 2.13.0
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 10.0.0
+  - name: com.unity.mathematics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 16.0.5
+  - name: com.unity.render-pipelines.core
+    version: 16.0.5
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.rendering.light-transport
+    version: 1.0.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.test-framework
+    version: 1.3.9
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.searcher
+    version: 4.9.2
+  keywords:
+  - gltf
+  - khronos
+  - runtime
+  - loader
+  - import
+  - export
+  registry:
+    id: scoped:project:needle
+    name: needle
+    url: https://packages.needle.tools
+    scopes:
+    - com.needle
+    - org.khronos
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638505920037460000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: 
+    url: git+https://github.com/KhronosGroup/UnityGLTF.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.1
+  source: 1
+  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
+    compatible:
+    - 3.2.1
+    recommended: 3.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638186318800000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Fixed Newtonsoft DLL when compiling with netstandard
+    2.0."}'
+  assetStore:
+    productId: 
+- packageId: com.unity.sharp-zip-lib@1.3.2-preview
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.2-preview
+  source: 1
+  resolvedPath: D:\User\Documents\GitHub\AugmentedDiorama\AugmentedDiorama\GodzillaMinusOne\GodzillaMinusOne@dioramabuilder\Library\PackageCache\com.unity.sharp-zip-lib@1.3.2-preview
+  assetPath: Packages/com.unity.sharp-zip-lib
+  name: com.unity.sharp-zip-lib
+  displayName: SharpZipLib
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: A package that wraps SharpZipLib (https://github.com/icsharpcode/SharpZipLib)
+    to be used inside Unity
+  errors: []
+  versions:
+    all:
+    - 1.2.0-preview
+    - 1.2.2-preview
+    - 1.2.2-preview.1
+    - 1.2.2-preview.2
+    - 1.3.0-preview
+    - 1.3.2-preview
+    - 1.3.3-preview
+    - 1.3.4-preview
+    - 1.3.5-preview
+    - 1.3.6-preview
+    - 1.3.7-pre.1
+    - 1.3.7
+    - 1.3.8
+    compatible:
+    - 1.2.0-preview
+    - 1.2.2-preview
+    - 1.2.2-preview.1
+    - 1.2.2-preview.2
+    - 1.3.0-preview
+    - 1.3.2-preview
+    - 1.3.3-preview
+    - 1.3.4-preview
+    - 1.3.5-preview
+    - 1.3.6-preview
+    - 1.3.7-pre.1
+    - 1.3.7
+    - 1.3.8
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637938093740000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/SharpZipLib.git
+    revision: 12cdd575f479645f5ef7c03eb1952ed49a1f1521
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"* Re-releasing 1.3.1-preview as 1.3.2-preview"}'
   assetStore:
     productId: 
 - packageId: com.unity.searcher@4.9.2
